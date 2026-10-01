@@ -11,7 +11,7 @@
 
 **Intelligent Feature Extraction • Dynamic Generation • Ultra-Light Deployment**
 
-[Live Demo](https://bill-extraction-pipeline.onrender.com) • [API Documentation](#-api-endpoints) • [Quick Start](#-quick-start)
+ • [API Documentation](#-api-endpoints) • [Quick Start](#-quick-start)
 
 </div>
 
@@ -321,7 +321,7 @@ National Institute of Technology Patna
 
 ### 🏆 INTELLIGENT MEDICAL EXTRACTION READY
 
-**Live Demo**: https://bill-extraction-pipeline.onrender.com/api/v1/hackrx/run  
+  
 **Business Value**: https://bill-extraction-pipeline.onrender.com/api/v1/roi-calculator  
 **Technical Edge**: https://bill-extraction-pipeline.onrender.com/api/v1/technology-breakdown
 
